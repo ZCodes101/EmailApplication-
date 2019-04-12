@@ -13,7 +13,7 @@ public class Email {
     private String email;
     private int mailCapacity = 400;
     private String alternateEmail;
-    private String comppanySuffix = "alientech.com";
+    private String comppanySuffix = "genericcompany.com";
 
     /**
      * Instantiates a new Email.
